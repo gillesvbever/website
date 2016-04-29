@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+
+
+
+
+
+
+
+
+
+#header2-0 H1 {
+  font-family: 'Bitter', serif;
+  color: #000000;
+}
+#header2-0 P {
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  color: #000000;
+}
+#header2-7 H1 {
+  font-family: 'Bitter', serif;
+  color: #000000;
+}
+#header3-13 H3 {
+  font-family: 'Bitter', serif;
+}
+#content1-14 DIV {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+}
+#content1-14 I {
+  font-family: 'Merriweather', serif;
+}
+#header3-3 H3 {
+  font-family: 'Bitter', serif;
+}
+#content1-4 DIV {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+}
+#content1-6 DIV {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+}
