@@ -12,6 +12,7 @@
 
 
 
+
 #header2-0 H1 {
   font-family: 'Bitter', serif;
   color: #000000;
@@ -56,4 +57,9 @@
   font-family: 'Merriweather', serif;
   font-size: 17px;
   color: #000000;
+}
+#footer1-19 P {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+  font-size: 10px;
 }
